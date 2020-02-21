@@ -20,7 +20,9 @@ const App = () => {
 
                 </Route>
                 <Route path="/edit/:reminderId">
+                    <ReminderHeader />
                     <ReminderEdit />
+                    <ReminderFooter />
                 </Route>
             </Switch>
 
