@@ -14,7 +14,7 @@ const App = () => {
                     <RemidnerList />
                     <ReminderFooter />
                 </Route>
-                <Route path="reminderApp/edit/:reminderId">
+                <Route path="/reminderApp/edit/:reminderId">
                     <ReminderEdit/>
                 </Route>
             </Switch>
