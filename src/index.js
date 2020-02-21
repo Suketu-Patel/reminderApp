@@ -30,7 +30,7 @@ const StoreProvider = ({ children }) => {
 }
 
 ReactDOM.render(
-    <Router>
+    <Router basename={`${process.env.PUBLIC_URL}/`}>
         <StoreProvider>
             <App />
         </StoreProvider>

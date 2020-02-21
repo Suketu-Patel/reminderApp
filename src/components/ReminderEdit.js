@@ -13,7 +13,7 @@ const ReminderEdit = (props) => {
 
     const deleteReminder = () => {
         store.reminders.splice(reminderId, 1)
-        props.history.push("/reminderApp")
+        props.history.push("/")
     }
 
     return (
@@ -24,7 +24,7 @@ const ReminderEdit = (props) => {
                         <div className="container">
                             <form onSubmit={(e) => {
                                 e.preventDefault();
-                                return props.history.push("/reminderApp")
+                                return props.history.push("/")
                             }
                             }>
                                 <div className="form-group mt-3">
