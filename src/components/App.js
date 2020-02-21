@@ -9,12 +9,12 @@ const App = () => {
     return (
         <div className="container">
             <Switch>
-                <Route path="/" exact>
+                <Route path="/reminderApp" exact>
                     <ReminderForm />
                     <RemidnerList />
                     <ReminderFooter />
                 </Route>
-                <Route path="/edit/:reminderId">
+                <Route path="reminderApp/edit/:reminderId">
                     <ReminderEdit/>
                 </Route>
             </Switch>
