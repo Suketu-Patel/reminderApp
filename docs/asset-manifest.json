@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/reminderApp-serve/static/js/main.111a6d05.chunk.js",
-    "main.js.map": "/reminderApp-serve/static/js/main.111a6d05.chunk.js.map",
-    "runtime-main.js": "/reminderApp-serve/static/js/runtime-main.81ba3426.js",
-    "runtime-main.js.map": "/reminderApp-serve/static/js/runtime-main.81ba3426.js.map",
-    "static/css/2.53964a50.chunk.css": "/reminderApp-serve/static/css/2.53964a50.chunk.css",
-    "static/js/2.4195fa90.chunk.js": "/reminderApp-serve/static/js/2.4195fa90.chunk.js",
-    "static/js/2.4195fa90.chunk.js.map": "/reminderApp-serve/static/js/2.4195fa90.chunk.js.map",
-    "index.html": "/reminderApp-serve/index.html",
-    "precache-manifest.2a956f635d7a14d2aaabbb02efdcdb1a.js": "/reminderApp-serve/precache-manifest.2a956f635d7a14d2aaabbb02efdcdb1a.js",
-    "service-worker.js": "/reminderApp-serve/service-worker.js",
-    "static/css/2.53964a50.chunk.css.map": "/reminderApp-serve/static/css/2.53964a50.chunk.css.map",
-    "static/js/2.4195fa90.chunk.js.LICENSE.txt": "/reminderApp-serve/static/js/2.4195fa90.chunk.js.LICENSE.txt"
+    "main.js": "/reminderApp/static/js/main.c60ba1ad.chunk.js",
+    "main.js.map": "/reminderApp/static/js/main.c60ba1ad.chunk.js.map",
+    "runtime-main.js": "/reminderApp/static/js/runtime-main.11fe3f3a.js",
+    "runtime-main.js.map": "/reminderApp/static/js/runtime-main.11fe3f3a.js.map",
+    "static/css/2.53964a50.chunk.css": "/reminderApp/static/css/2.53964a50.chunk.css",
+    "static/js/2.55c20712.chunk.js": "/reminderApp/static/js/2.55c20712.chunk.js",
+    "static/js/2.55c20712.chunk.js.map": "/reminderApp/static/js/2.55c20712.chunk.js.map",
+    "index.html": "/reminderApp/index.html",
+    "precache-manifest.0bd161b24aec2fc6b3162e1a88ae4a61.js": "/reminderApp/precache-manifest.0bd161b24aec2fc6b3162e1a88ae4a61.js",
+    "service-worker.js": "/reminderApp/service-worker.js",
+    "static/css/2.53964a50.chunk.css.map": "/reminderApp/static/css/2.53964a50.chunk.css.map",
+    "static/js/2.55c20712.chunk.js.LICENSE.txt": "/reminderApp/static/js/2.55c20712.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.81ba3426.js",
+    "static/js/runtime-main.11fe3f3a.js",
     "static/css/2.53964a50.chunk.css",
-    "static/js/2.4195fa90.chunk.js",
-    "static/js/main.111a6d05.chunk.js"
+    "static/js/2.55c20712.chunk.js",
+    "static/js/main.c60ba1ad.chunk.js"
   ]
 }
