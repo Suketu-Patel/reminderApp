@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/reminderApp/static/js/main.a8b8730d.chunk.js",
-    "main.js.map": "/reminderApp/static/js/main.a8b8730d.chunk.js.map",
-    "runtime-main.js": "/reminderApp/static/js/runtime-main.71ea0741.js",
-    "runtime-main.js.map": "/reminderApp/static/js/runtime-main.71ea0741.js.map",
-    "static/css/2.c595a105.chunk.css": "/reminderApp/static/css/2.c595a105.chunk.css",
-    "static/js/2.75a1ecb5.chunk.js": "/reminderApp/static/js/2.75a1ecb5.chunk.js",
-    "static/js/2.75a1ecb5.chunk.js.map": "/reminderApp/static/js/2.75a1ecb5.chunk.js.map",
+    "main.js": "/reminderApp/static/js/main.7159e381.chunk.js",
+    "main.js.map": "/reminderApp/static/js/main.7159e381.chunk.js.map",
+    "runtime-main.js": "/reminderApp/static/js/runtime-main.11fe3f3a.js",
+    "runtime-main.js.map": "/reminderApp/static/js/runtime-main.11fe3f3a.js.map",
+    "static/css/2.53964a50.chunk.css": "/reminderApp/static/css/2.53964a50.chunk.css",
+    "static/js/2.b8155ffa.chunk.js": "/reminderApp/static/js/2.b8155ffa.chunk.js",
+    "static/js/2.b8155ffa.chunk.js.map": "/reminderApp/static/js/2.b8155ffa.chunk.js.map",
     "index.html": "/reminderApp/index.html",
-    "precache-manifest.c76acc7b91f32a86fdc8a6d311d15703.js": "/reminderApp/precache-manifest.c76acc7b91f32a86fdc8a6d311d15703.js",
+    "precache-manifest.949fba3307853e3a0c10592c4d1fccbd.js": "/reminderApp/precache-manifest.949fba3307853e3a0c10592c4d1fccbd.js",
     "service-worker.js": "/reminderApp/service-worker.js",
-    "static/css/2.c595a105.chunk.css.map": "/reminderApp/static/css/2.c595a105.chunk.css.map",
-    "static/js/2.75a1ecb5.chunk.js.LICENSE.txt": "/reminderApp/static/js/2.75a1ecb5.chunk.js.LICENSE.txt"
+    "static/css/2.53964a50.chunk.css.map": "/reminderApp/static/css/2.53964a50.chunk.css.map",
+    "static/js/2.b8155ffa.chunk.js.LICENSE.txt": "/reminderApp/static/js/2.b8155ffa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.71ea0741.js",
-    "static/css/2.c595a105.chunk.css",
-    "static/js/2.75a1ecb5.chunk.js",
-    "static/js/main.a8b8730d.chunk.js"
+    "static/js/runtime-main.11fe3f3a.js",
+    "static/css/2.53964a50.chunk.css",
+    "static/js/2.b8155ffa.chunk.js",
+    "static/js/main.7159e381.chunk.js"
   ]
 }
